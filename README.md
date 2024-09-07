@@ -1,4 +1,4 @@
-### Statistics_LinearRegressionModel_AgriculturalYieldPrediction
+## Statistics_LinearRegressionModel_AgriculturalYieldPrediction
 
 ### Project Overview
 This repository contains the analysis and prediction of crop yield using linear regression models. The project is part of an academic assignment that focuses on the application of statistical methods in agriculture, specifically predicting crop yield based on fertilizer usage data. The analysis is done using R programming and applies fundamental concepts from statistics, including linear regression.

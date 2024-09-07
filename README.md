@@ -1,3 +1,4 @@
+HEAD
 Statistics_LinearRegressionModel_AgriculturalYieldPrediction
 
 Project Overview
@@ -54,3 +55,4 @@ The linear regression model demonstrates a significant relationship between fert
 The initial analysis contains formatting errors and misinterpretations, while the final version correctly applies statistical techniques to ensure a valid and interpretable model.
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+

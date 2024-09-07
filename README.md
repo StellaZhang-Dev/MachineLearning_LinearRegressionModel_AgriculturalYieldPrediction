@@ -2,7 +2,8 @@
 This repository contains the analysis and prediction of crop yield using linear regression models. The project is part of an academic assignment that focuses on the application of statistical methods in agriculture, specifically predicting crop yield based on fertilizer usage data. The analysis is done using R programming and applies fundamental concepts from statistics, including linear regression.
 
 ### Contents
-#### Data: Crop yield dataset provided as part of the assignment.
+#### Data: 
+Crop yield dataset provided as part of the assignment.
 #### R Scripts:
 First version: An exploratory attempt at performing the regression analysis and deriving insights.
 Second version: A revised version based on the correct statistical approach.
@@ -40,7 +41,8 @@ Statistics_LinearRegressionModel_AgriculturalYieldPrediction/
 4. Alternatively, open the reports directory to view the pre-generated Word reports.
 
 ### Requirements
-#### R version: 4.3.3 or higher
+#### R version: 
+4.3.3 or higher
 #### Packages:
 ggplot2 for data visualization
 dplyr for data manipulation

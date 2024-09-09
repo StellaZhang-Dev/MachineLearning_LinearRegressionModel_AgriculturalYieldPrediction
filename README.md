@@ -21,20 +21,24 @@ Model Evaluation: The model's performance is evaluated using metrics such as R-s
 ### Files Structure
 
 Statistics_LinearRegressionModel_AgriculturalYieldPrediction/
+
+```
+Files Structure
+
+Statistics_LinearRegressionModel_AgriculturalYieldPrediction/
 │
 ├── data/
-│   └── CropYieldData.csv          # Input dataset for analysis
-│
+│   └── CropYieldData.csv  # Input dataset for analysis
 ├── scripts/
-│   ├── InitialAnalysis.Rmd        # First version of the regression analysis (R Markdown)
-│   ├── FinalAnalysis.Rmd          # Corrected version of the regression analysis (R Markdown)
-│
+│   ├── InitialAnalysis.Rmd  # First version of the regression analysis (R Markdown)
+│   └── FinalAnalysis.Rmd  # Corrected version of the regression analysis (R Markdown)
 ├── reports/
-│   ├── InitialReport.docx         # Word document report based on the first version
-│   └── FinalReport.docx           # Word document report based on the final version
-│
-├── README.md                      # Project overview and details
-└── LICENSE.md                     # Licensing information (if applicable)
+│   ├── InitialReport.docx  # Word document report based on the first version
+│   └── FinalReport.docx  # Word document report based on the final version
+├── README.md  # Project overview and details
+└── LICENSE.md  # Licensing information (if applicable)
+
+```
 
 ### How to Run the Project
 1. Install R and RStudio (if not already installed).

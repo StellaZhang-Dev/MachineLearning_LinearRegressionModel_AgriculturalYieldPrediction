@@ -1,4 +1,4 @@
-## Statistics_LinearRegressionModel_AgriculturalYieldPrediction
+## MachineLearning_LinearRegressionModel_AgriculturalYieldPrediction
 
 ### Project Overview
 This repository contains the analysis and prediction of crop yield using linear regression models. The project is part of an academic assignment that focuses on the application of statistical methods in agriculture, specifically predicting crop yield based on fertilizer usage data. The analysis is done using R programming and applies fundamental concepts from statistics, including linear regression.
@@ -20,12 +20,12 @@ Model Evaluation: The model's performance is evaluated using metrics such as R-s
 
 ### Files Structure
 
-Statistics_LinearRegressionModel_AgriculturalYieldPrediction/
+MachineLearning_LinearRegressionModel_AgriculturalYieldPrediction/
 
 ```
 Files Structure
 
-Statistics_LinearRegressionModel_AgriculturalYieldPrediction/
+MachineLearning_LinearRegressionModel_AgriculturalYieldPrediction/
 │
 ├── data/
 │   └── CropYieldData.csv  # Input dataset for analysis
@@ -42,7 +42,7 @@ Statistics_LinearRegressionModel_AgriculturalYieldPrediction/
 
 ### How to Run the Project
 1. Install R and RStudio (if not already installed).
-2. Clone this repository to your local machine git clone https://github.com/StellaZhang-Dev/Statistics_LinearRegressionModel_AgriculturalYieldPrediction.git
+2. Clone this repository to your local machine git clone https://github.com/StellaZhang-Dev/MachineLearning_LinearRegressionModel_AgriculturalYieldPrediction.git
 3. Open the .Rmd files in RStudio and knit the documents to see the analysis.
 4. Alternatively, open the reports directory to view the pre-generated Word reports.
 
